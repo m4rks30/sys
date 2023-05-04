@@ -1,5 +1,5 @@
 # sys
-A script to view system information
+#A script to view system information
 #fuck_you_editor
 #hello 
 #Line 28 tokon robot
